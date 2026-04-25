@@ -1,1 +1,1 @@
-Desenvolvedor e Engenheiro de Dados com background em Administração. Uno código (Python, Java, JS, SQL) e visão estratégica de negócios para construir sistemas eficientes e dashboards inteligentes aplicando metodologias ágeis.
+Desenvolvedor de Software e Especialista em Engenharia de Dados e Engenharia de Software com background em Administração. Uno código (Python, Java, JS, SQL) e visão estratégica de negócios para construir sistemas eficientes e dashboards inteligentes aplicando metodologias ágeis.
