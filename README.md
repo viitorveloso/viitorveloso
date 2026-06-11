@@ -1,5 +1,7 @@
 João Vitor
-Desenvolvedor de software com foco em arquitetura de sistemas escaláveis, APIs de alta performance e aplicações full stack robustas.
+Desenvolvedor Full Stack focado na criação de softwares sob medida, alinhados às necessidades reais de cada cliente.
+
+Atuo desde o design de interfaces até o desenvolvimento completo da aplicação, entregando soluções modernas, funcionais e com foco total na experiência do usuário e nos resultados do negócio.
 
 Stack Técnica
 Back-end
